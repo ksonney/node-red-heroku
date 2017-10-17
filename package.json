@@ -8,7 +8,7 @@
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
         "node-red": "~0.x",
-        "node-red-contrib-admin": "0.x"
+        "node-red-contrib-admin": "0.x",
         "node-red-contrib-continuous": "0.0.1",
         "node-red-contrib-deadmanswitch": "~1.0.1",
         "node-red-contrib-home-assistant": "~0.2.0",
