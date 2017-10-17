@@ -9,5 +9,18 @@
         "redis":"~0.10.1",
         "node-red": "~0.x",
         "node-red-contrib-admin":"0.x"
+        "node-red-contrib-continuous": "0.0.1",
+        "node-red-contrib-deadmanswitch": "~1.0.1",
+        "node-red-contrib-home-assistant": "~0.2.0",
+        "node-red-contrib-ifttt": "0.0.13",
+        "node-red-contrib-nats": "0.0.2",
+        "node-red-contrib-slack": "~0.1.2",
+        "node-red-contrib-sunevents": "0.0.5",
+        "node-red-node-darksky": "~0.1.16",
+        "node-red-node-irc": "0.0.8",
+        "node-red-node-ping": "0.0.13",
+        "node-red-node-random": "0.0.8",
+        "node-red-node-weather-underground": "~0.1.10",
+        "nr-regexp-filter": "~1.0.1"
     }
 }
