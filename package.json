@@ -1,10 +1,13 @@
 {
     "name": "node-red-heroku",
     "version": "0.0.1",
+    "license": "Apache License",
+    "repository": "https://github.com/ksonney/node-red-heroku",
     "dependencies": {
-        "bson": "~0.2.x",
+        "bson": "~4.x.x",
+        "bson-ext": "~2.x.x",
         "when": "~3.x",
-        "mongodb": "~1.4.x",
+        "mongodb": "~1.x.x",
         "nano": "~5.11.0",
         "feedparser": "~0.19.2",
         "redis": "~0.10.1",
