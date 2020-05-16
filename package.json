@@ -7,7 +7,7 @@
         "bson": "~4.x.x",
         "bson-ext": "~2.x.x",
         "when": "~3.x",
-        "mongodb": "~1.x.x",
+        "mongodb": "~2.x.x",
         "nano": "~5.11.0",
         "feedparser": "~0.19.2",
         "redis": "~0.10.1",
