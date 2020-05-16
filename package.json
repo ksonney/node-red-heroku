@@ -31,6 +31,8 @@
         "node-red-contrib-deadmanswitch": "~1.0.1",
         "node-red-contrib-feedparser-2": "0.1.1",
         "node-red-contrib-twitter": "~1.1.3",
-        "nr-regexp-filter": "~1.0.1"
+        "nr-regexp-filter": "~1.0.1",
+        "node-red-node-email": "~1.7.8",
+        "node-red-node-random": "~0.1.4"
     }
 }
