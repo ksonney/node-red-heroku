@@ -34,6 +34,8 @@
         "nr-regexp-filter": "~1.0.1",
         "node-red-node-email": "~1.7.8",
         "node-red-node-random": "~0.1.4",
-        "node-red-node-feedparser":"~0.1.16"
+        "node-red-node-feedparser":"~0.1.16",
+        "request":"~2.88.2",
+        "request-promise-native": "~1.0.8"
     }
 }
