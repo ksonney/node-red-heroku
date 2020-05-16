@@ -11,6 +11,17 @@
         "nano": "~5.11.0",
         "feedparser": "~0.19.2",
         "redis": "~0.10.1",
-        "node-red": "~1.x"
+        "node-red": "~1.x",
+        "node-red-contrib-discord": "~4.0.3",
+        "node-red-contrib-elasticsearch7": "0.0.7",
+        "node-red-contrib-google-sheets": "0.0.3",
+        "node-red-contrib-homekit-preconfigured": "~1.2.2",
+        "node-red-contrib-ifttt": "~0.3.1",
+        "node-red-contrib-pushover": "~0.2.0",
+        "node-red-contrib-python3-function": "0.0.4",
+        "node-red-contrib-slack": "~2.0.0",
+        "node-red-contrib-telegrambot": "~8.1.0",
+        "node-red-contrib-twitter-stream": "~1.5.0",
+        "node-red-dashboard": "~2.22.1"
     }
 }
